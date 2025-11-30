@@ -59,8 +59,11 @@ The purpose of this project is to practice front-end basics like layouts, positi
 
 
 ---
+Here's the outcome 
 
 ![Homepage Screenshot](screenshot/homepage.png)
+
+
 
 ▶️ How to Run the Project
 
