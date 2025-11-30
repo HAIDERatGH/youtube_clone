@@ -60,6 +60,8 @@ The purpose of this project is to practice front-end basics like layouts, positi
 
 ---
 
+![Homepage Screenshot](screenshot/homepage.png)
+
 ▶️ How to Run the Project
 
 1. Download or clone the repository
