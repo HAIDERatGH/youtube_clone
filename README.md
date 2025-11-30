@@ -8,17 +8,17 @@ The purpose of this project is to practice front-end basics like layouts, positi
 
 🚀 Features
 
-A clean homepage layout similar to YouTube
+. A clean homepage layout similar to YouTube
 
-Header section: logo, search bar, icons
+. Header section: logo, search bar, icons
 
-Sidebar navigation
+. Sidebar navigation
 
-Video grid layout with thumbnails
+. Video grid layout with thumbnails
 
-Channel pictures and video info
+. Channel pictures and video info
 
-Responsive layouts using CSS Flexbox & Grid
+. Responsive layouts using CSS Flexbox & Grid
 
 
 
@@ -26,76 +26,36 @@ Responsive layouts using CSS Flexbox & Grid
 
 🛠 Technologies Used
 
-Frontend
+-> Frontend
 
-HTML5
+     . HTML5
 
-CSS3
-
-
-CSS Concepts Practiced
-
-Box Model
-
-Flexbox
-
-CSS Grid
-
-Positioning (relative, absolute, fixed)
-
-Display properties
-
-Hover effects
-
-Responsive UI basics
+     . CSS3
 
 
-Tools
+-> CSS Concepts Practiced
 
-Visual Studio Code (code editor)
+     . Box Model
 
-Web Browser (to run and test the project)
+     . Flexbox
 
+     . CSS Grid
 
+     . Positioning (relative, absolute, fixed)
 
----
+     . Display properties
 
-📂 Project Structure
+     . Hover effects
 
-youtube-clone/
-│── index.html
-│
-├── styles/
-│   ├── general.css
-│   ├── header.css
-│   ├── video.css
-│   └── sidebar.css
-│
-├── thumbnails/
-│   ├── video1.jpg
-│   ├── video2.jpg
-│   └── ...
-│
-├── icons/
-│   ├── search.svg
-│   ├── menu.svg
-│   ├── upload.svg
-│   └── ...
-│
-└── channels/
-    ├── channel1.jpg
-    ├── channel2.jpg
-    └── ...
+     . Responsive UI basics
 
 
----
+-> Tools
 
-📸 Screenshots
+     . Visual Studio Code (code editor)
 
-(Add screenshots of your homepage UI here)
-Example:
+     . Web Browser (to run and test the project)
 
-![Homepage Screenshot](screenshots/homepage.png)
 
 
 ---
@@ -104,12 +64,9 @@ Example:
 
 1. Download or clone the repository
 
-
 2. Open your project folder
 
-
 3. Open index.html in any web browser
-
 
 4. The YouTube homepage clone will load instantly — no installation needed
 
@@ -122,35 +79,34 @@ Example:
 
 This project helped me practice:
 
-Structuring a webpage using HTML
+     . Structuring a webpage using HTML
 
-Building layouts using Flexbox & Grid
+     . Building layouts using Flexbox & Grid
 
-Organizing CSS into multiple files
+     . Organizing CSS into multiple files
 
-Improving UI design skills
+     . Improving UI design skills
 
-Creating a professional folder structure
-
-
-
----
-
-🌟 Future Improvements (Optional)
-
-Add responsiveness for mobile
-
-Add JavaScript interactions
-
-Add video player page
-
-Use a CSS framework (optional)
+     . Creating a professional folder structure
 
 
 
 ---
 
-📌 Author
+🌟 Future Improvements 
 
-Your Name
-GitHub: [your-username]
+   . Add responsiveness for mobile
+
+   . Add JavaScript interactions
+
+   . Add video player page
+
+   . Use a CSS framework 
+
+
+
+---
+
+📌 
+HAIDER ALI
+GitHub: [HAIDERatGH]
