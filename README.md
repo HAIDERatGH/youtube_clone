@@ -66,7 +66,7 @@ The purpose of this project is to practice front-end basics like layouts, positi
 
 2. Open your project folder
 
-3. Open index.html in any web browser
+3. Open youtube.html in any web browser
 
 4. The YouTube homepage clone will load instantly — no installation needed
 
